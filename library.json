@@ -1,0 +1,25 @@
+{
+    "name" : "luple",
+    "version" : "1.2.0",
+    "description" : "C++ Type Loophole magic by Alexandr Poltavsky wrapped as a library",
+    "keywords" : "metaprogramming, loophole",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/unn4m3d/luple.git"
+    },
+    "authors" : [
+        {
+            "name" : "Alexandr Poltavsky", 
+            "email" : "poltavsky.alexandr@gmail.com",
+            "url" : "https://alexpolt.github.io/"
+        },
+        {
+            "name" : "Stepan Melnikov",
+            "email" : "smelnikov871@gmail.com",
+            "url" : "https://github.com/unn4m3d"
+        }
+    ],
+    "homepage" : "https://alexpolt.github.io/type-loophole.html",
+    "frameworks" : "*",
+    "platforms" : "*"
+}
